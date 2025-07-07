@@ -4,8 +4,7 @@
 
 This interactive **HR Analytics Dashboard** was created using Power BI to help HR teams identify key patterns in employee attrition, job satisfaction, and departmental performance. The goal was to turn raw HR data into **clear business insights** and help stakeholders take **data-driven decisions**.
 
-![Power BI](https://img.shields.io/badge/Tool-PowerBI-yellow?style=flat&logo=powerbi)
-![Excel](https://img.shields.io/badge/Excel-Used-brightgreen?style=flat&logo=microsoft-excel)
+![Power BI Dashboard](file:///C:/Users/admin/Downloads/HR%20Dashboard%20pdf%20(1).pdf)
 
 ---
 
